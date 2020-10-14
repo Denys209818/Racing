@@ -40,6 +40,7 @@ namespace Racing
             else if (speed > maxSpeed || isBreakDown) 
             {
                 isBreakDown = true;
+                isFinished = true;
                 this.BreakDown();
                 return;
             }

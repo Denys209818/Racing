@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.exe
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.dll
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\bin\Debug\netcoreapp3.0\Racing.pdb
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\obj\Debug\netcoreapp3.0\Racing.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\obj\Debug\netcoreapp3.0\Racing.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\obj\Debug\netcoreapp3.0\Racing.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\obj\Debug\netcoreapp3.0\Racing.dll
+C:\Users\Denis\Desktop\Новая папка C#\Racing\Racing\obj\Debug\netcoreapp3.0\Racing.pdb
